@@ -1,0 +1,27 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #8fe6e9;
+  height: 1000px;
+}
+
+.jumbotron2 {
+  padding: 2rem 1rem;
+  background-color: #50898b;
+  height: 1000px;
+}
+
+.welcome {
+  text-align: center;
+  color: white;
+  padding: 0.5rem 1rem;
+}
+
+.edupak {
+  text-align: center;
+  color: white;
+  padding: 1rem 2rem;
+}
+
+h3 {
+  padding: 1rem;
+}
